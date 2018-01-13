@@ -1,0 +1,31 @@
+{
+  "name": "xg2e-generators",
+  "version": "0.0.1",
+  "description": "A series of random generators from the D&D supplemental book: Xanathar's Guide To Everything",
+  "main": "xg2e.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stolksdorf/xg2e-generators.git"
+  },
+  "keywords": [
+    "xge",
+    "d&d",
+    "dnd",
+    "npc",
+    "random",
+    "xg2e",
+    "xanathars"
+  ],
+  "author": "stolksdorf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stolksdorf/xg2e-generators/issues"
+  },
+  "homepage": "https://github.com/stolksdorf/xg2e-generators#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
