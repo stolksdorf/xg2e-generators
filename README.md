@@ -15,3 +15,6 @@ This library exposes the random generators from Xanathar's Guide To Everything. 
 - The OCR on the book I have was quite poor, especially with the names. There are many errors that will need to be fixed
 - I have not found a good source to generate random ages per race yet.
 
+
+
+https://www.reddit.com/r/DnD/comments/7ni8do/list_of_100_low_level_magic_items_i_use_some/
